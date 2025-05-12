@@ -1,2 +1,2 @@
-# Tableau-Dashboard
-This Project is about creating an interactive Dashboard using Tableau Public
+# HR Analytics Dashboard
+This Project is about creating HR Analytics Dashboard using MS Excel, Tableau, Power BI and testing using SQL queries in PostgreSQL.
