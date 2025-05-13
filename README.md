@@ -65,4 +65,5 @@ The HR department lacks visualisations that displays attrition rates based on ge
 ![Screenshot Tableau](https://github.com/user-attachments/assets/6701d38e-1ead-422c-888d-fc2009e4d86f)
 ![Screen Shot Excel](https://github.com/user-attachments/assets/298345d5-a077-4483-af35-e6277d6b3db5)
 
+##Final Conclusion
 
