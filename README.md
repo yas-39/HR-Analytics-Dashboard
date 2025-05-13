@@ -42,5 +42,5 @@ The HR department requires visual representation to analyse attrition rates base
 6. Attrition Rate by Gender for different age groups:
 The HR department lacks visualisations that displays attrition rates based on gender and different age groups. This makes it challanging to identify any age and gender related attrition trends, preventing the organisation from implementing targeted retension stratergies for specific employee segments.
 
-#Data Set
+##Data Set
 - <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/Data%20Set_in%20excel.xlsx">Dataset</a>
