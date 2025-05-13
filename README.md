@@ -21,4 +21,4 @@ The organisation lacks a mechanism to differentiate between active and inactive 
 5. Average Age:
 The HR department lacks visibility into the average age of employees making it difficult to evaluate workforce demographics, succession planning and the organisation ability to attract and retrain young talents.
 
-![image](https://github.com/user-attachments/assets/31bc7ce4-13fc-45cc-911b-591fdd027511)
+
