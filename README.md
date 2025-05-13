@@ -1,5 +1,5 @@
 ## HR Analytics Dashboard
-This Project is about creating HR Analytics Dashboard using MS Excel, Tableau, Power BI and testing using SQL queries in PostgreSQL.
+This Project is about creating HR Analytics Dashboard using Tableau, Power BI, MS Excel, and testing using SQL queries in PostgreSQL.
 
 ## Dataset used
 - <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/Data%20Set_in%20excel.xlsx">Dataset</a>
