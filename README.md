@@ -66,5 +66,5 @@ The HR department lacks visualisations that displays attrition rates based on ge
 ![Screen Shot Excel](https://github.com/user-attachments/assets/298345d5-a077-4483-af35-e6277d6b3db5)
 
 ## Final Conclusion
-This Project helps to demonstrate the values of decision-making in the HR. By providing insights into employee attrition, workforce demographics and other key metrics 
+This Project helps to demonstrate the values of decision-making in the HR. By providing insights into employee attrition, workforce demographics and other key metrics, 
 these Dashboards enable Organisations to implement stratergic HR initiatives, improve employement engagement und ultimately enhance overall Organisation Performance.
