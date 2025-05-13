@@ -1,6 +1,10 @@
 ## HR Analytics Dashboard
 This Project is about creating HR Analytics Dashboard using MS Excel, Tableau, Power BI and testing using SQL queries in PostgreSQL.
 
+## Dataset used
+- <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/Data%20Set_in%20excel.xlsx">Dataset</a>
+
+
 ## PROBLEM STATEMENT
 
 ## KPI‘s  Requirement: 
@@ -42,5 +46,4 @@ The HR department requires visual representation to analyse attrition rates base
 6. Attrition Rate by Gender for different age groups:
 The HR department lacks visualisations that displays attrition rates based on gender and different age groups. This makes it challanging to identify any age and gender related attrition trends, preventing the organisation from implementing targeted retension stratergies for specific employee segments.
 
-## Dataset used
-- <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/Data%20Set_in%20excel.xlsx">Dataset</a>
+
