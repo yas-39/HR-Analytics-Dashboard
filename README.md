@@ -58,3 +58,6 @@ The HR department lacks visualisations that displays attrition rates based on ge
 <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/TEST%20DOCUMENT_SQL_Tableau%20.docx">Test Document Tableau<a>
 ## SQL Quieres
 <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/SQL_Quieres.docx">Test Document SQL<a>
+
+## Dashboard Screenshots
+
