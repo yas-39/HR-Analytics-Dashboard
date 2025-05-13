@@ -1,9 +1,9 @@
 ## HR Analytics Dashboard
 This Project is about creating HR Analytics Dashboard using MS Excel, Tableau, Power BI and testing using SQL queries in PostgreSQL.
 
-##PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
-##KPI‘s  Requirement: 
+## KPI‘s  Requirement: 
 
 The HR department is responsible for monitotring and managing various aspects of employee data to  ensure the organisation maintains a healthy workforce. However there is a lack of clear performance indicator to track and analyse HR metrics.Therefore there is a need and design to implement a set of KPI‘s (Key Performance Indicator) to address the following points.
 
@@ -22,7 +22,7 @@ The organisation lacks a mechanism to differentiate between active and inactive 
 5. Average Age:
 The HR department lacks visibility into the average age of employees making it difficult to evaluate workforce demographics, succession planning and the organisation ability to attract and retrain young talents.
 
-##Chart‘s requirement
+## Chart‘s requirement
 
 1. Attrition by Gender:
 HR department faces challanges in understanding the attrition patterns based on gender making it difficult to identify any gender-related disparities and implement targeted retension strategies.
