@@ -53,5 +53,6 @@ The HR department lacks visualisations that displays attrition rates based on ge
 - Dashboard Interaction <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/Excel%20Dashboard_HR%20Analytics.pdf">view Dashboard</a>
 
 ##Test Document Power BI
-
-<a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/TEST%20DOCUMENT_SQL_PowerBI%20.docx">Test Document<a>
+<a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/TEST%20DOCUMENT_SQL_PowerBI%20.docx">Test Document Power BI<a>
+##Test Document Tableau
+<a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/TEST%20DOCUMENT_SQL_Tableau%20.docx">Test Document Tableau<a>
