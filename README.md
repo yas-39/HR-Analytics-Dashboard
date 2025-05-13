@@ -1,5 +1,6 @@
 # HR Analytics Dashboard
 This Project is about creating HR Analytics Dashboard using MS Excel, Tableau, Power BI and testing using SQL queries in PostgreSQL.
+
 PROBLEM STATEMENT
 
 KPI‘s  Requirement: 
@@ -20,5 +21,25 @@ The organisation lacks a mechanism to differentiate between active and inactive 
 
 5. Average Age:
 The HR department lacks visibility into the average age of employees making it difficult to evaluate workforce demographics, succession planning and the organisation ability to attract and retrain young talents.
+
+Chart‘s requirement
+
+1. Attrition by Gender:
+HR department faces challanges in understanding the attrition patterns based on gender making it difficult to identify any gender-related disparities and implement targeted retension strategies.
+
+2. Department wise Attritions:
+The HR department lacks visualisations to showcase attrition rates across different departments.This hinders theit ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively.
+
+3. Number of employees by age group:
+The HR department requires visual representation to analyse the distribution of employees across various age groups. This helps in accessing workforce demographichs, identifying any age related gaps or imbalances and implemented targeted HR Policies or programs.
+
+4. Job Satisfaction ratings:
+The HR department lacks visualisations to represent job satisfaction ratings, híndering theit abilities to measure employee engagement and overall job satisfaction levels effectively.
+
+5. Education field wise Attrition:
+The HR department requires visual representation to analyse attrition rates based on education fields. This helps to identify specific educational backgrounds that may be associated with higher attritions, enabling the organisation to tailor retention stratergies accordingly.
+
+6. Attrition Rate by Gender for different age groups:
+The HR department lacks visualisations that displays attrition rates based on gender and different age groups. This makes it challanging to identify any age and gender related attrition trends, preventing the organisation from implementing targeted retension stratergies for specific employee segments.
 
 
