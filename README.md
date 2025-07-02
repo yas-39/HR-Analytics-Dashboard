@@ -57,11 +57,14 @@ The HR department lacks visualisations that displays attrition rates based on ge
 ## Test Document Tableau
 <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/TEST%20DOCUMENT_SQL_Tableau%20.docx">Test Document Tableau<a>
 
+
 ## Objective of QA Testing
+
 ### Functional Validation
 To verify all Filters and Action Filters
 ### Data Validation
 To check the accuracy and quality of Data to match the values in Power BI and Tableau by firing SQL queries
+
 
 ## Test Document
 To create a test document containing SQL queries and screenshots
