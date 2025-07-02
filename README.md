@@ -1,5 +1,5 @@
 ## HR Analytics Dashboard
-The HR Analytics Dashboard project aims to leverage simulated datasets representing diverse facets of a company's human resources activities to develop an insightful Power BI, Tableau and Excel Dashboard and retrieving the datas using SQL quieres using PostgreSQL. The primary objective is to showcase proficiency in cleansing, analyzing, transforming, modeling, visualizing, and deriving actionable insights from HR-related data using Power BI, Tableau and Excel.
+The HR Analytics Dashboard project aims to leverage simulated datasets representing diverse facets of a company's human resources activities to develop an insightful Power BI, Tableau and Excel Dashboard and create HR Database in Microsoft SQL Server, write SQL queries and create Test Document to QA HR Dashboards developed in Power BI and Tableau. The primary objective is to showcase proficiency in cleansing, analyzing, transforming, modeling, visualizing, and deriving actionable insights from HR-related data using Power BI, Tableau and Excel.
 
 ## Dataset used
 - <a href="https://github.com/yas-39/HR-Analytics-Dashboard/blob/main/Data%20Set_in%20excel.xlsx">Dataset</a>
